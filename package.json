@@ -1,0 +1,9 @@
+{
+  "name": "intruder-pvp",
+  "version": "1.0.0",
+  "private": true,
+  "description": "INTRUDER multiplayer free-for-all FPS",
+  "scripts": {"start": "node server.js", "test": "node --test tests/server.test.js", "test:browser": "node tests/browser.cjs"},
+  "engines": {"node": ">=20"},
+  "dependencies": {}
+}
